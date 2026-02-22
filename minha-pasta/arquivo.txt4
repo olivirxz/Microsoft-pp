@@ -1,1 +1,14 @@
+# Teste do branch andrew-test
+
+Este arquivo foi criado para testar alterações no branch **andrew-test**.
+
+## Objetivo
+- Verificar se o commit aparece corretamente.
+- Confirmar que o branch está funcionando.
+- Preparar para abrir um Pull Request.
+
+## Informações
+- Autor: Andrew
+- Branch: andrew-test
+- Arquivo: minha-pasta/arquivo.txt4
 
